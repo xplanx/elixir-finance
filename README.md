@@ -1,5 +1,6 @@
 # Elixir-finance
 ### elixir.finance Bringing liquidity to the long tail of cryptoassets via the industry's decentralized, algorithmic market making protocol
+![image](https://user-images.githubusercontent.com/76862881/218249898-d82f6c84-fbf7-410b-9c41-9ce069a5d59a.png)
 
 
 Prestart:
